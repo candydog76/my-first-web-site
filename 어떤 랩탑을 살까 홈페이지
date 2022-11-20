@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+<head>
+  <title>Macbook</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <h1>My new laptop</h1>
+  <h2>맥북에 대해 알아보자.</h2>
+<ul>
+  <li><strong>모델명</strong>: 2021 맥북 프로 14
+  <li><strong>가격</strong>: 약 260만 원
+  <li><strong>CPU</strong>: 10코어
+  <li><strong>GPU</strong>: 32코어
+  <li><strong>화면 크기</strong>: 14inch
+  <li><strong>저장장치</strong>: 8TB
+  <li><strong>통합메모리</strong>: 64GB
+  <li><strong>구입처</strong>: <a href="https://www.coupang.com/vp/products/6148872639?itemId=11731448540&vendorItemId=79005406093&src=1042503&spec=10304991&addtag=400&ctag=6148872639&lptag=10304991I11731448540&itime=20221119212235&pageType=PRODUCT&pageValue=6148872639&wPcid=16688595194928993942090&wRef=&wTime=20221119212235&redirect=landing&gclid=CjwKCAiAmuKbBhA2EiwAxQnt79KEPrI477acQtAba7PpUtNDnZUl2MH8IJJSQOTWskG8N3005L1NpBoCUoMQAvD_BwE&campaignid=18860235808&adgroupid=&isAddedCart=" target="_blink" title="쿠팡에서 구입하기">쿠팡</a><br>
+<img src="macbookpro14.jpg" width="50%"><br>
+<h2>갖고 싶다.</h2><br>
+<p>아래 laptop 브랜드 클릭하면 설명 링크로 이동합니다.
+  <ol>
+    <li><h3><strong><a href="LGgram.html">LG그램</a></strong></h3></li>
+    <li><h3><strong><a href="Macbook.html">맥북</a></strong></h3></li>
+    <li><a href="main.html">메인 페이지로 이동</a></p>
+</body>
+</html>
+
+<!doctype html>
+<html>
+<head>
+  <title>About new laptop</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <h1>My new laptop</h1>
+  코딩하는 <strong>멋진 나</strong>를 상상해<br>
+  프로그래밍하는 <strong>멋진 나</strong><br>
+  컴퓨터와 일하는 나<br>
+  생활지도는 잠시(30년 정도..) <strong>안녕</strong>이야<br><br>
+<img src="bye.jpg" width="50%"><br>
+"멋지게 안녕을 고하는 나"<br><br><br>
+<img src="coding woman.jpg" width="50%"><br>
+"박 개발자의 모습"<br><br>
+<p><h3><strong><u>이런 나를 원한다면 노트북이 필요하단다</u></strong></h3></p>
+<p>아래 laptop 브랜드 클릭하면 설명 링크로 이동합니다.
+  <ol>
+    <li><h3><strong><a href="LGgram.html">LG그램</a></strong></h3></li>
+    <li><h3><strong><a href="Macbook.html">맥북</a></strong></h3></li></p>
+    <br><br>
+</body>
+</html>
+
+<!doctype html>
+<html>
+<head>
+  <title>LGgram</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <h1>My new laptop</h1>
+  <h2>LG그램에 대해 알아보자.</h2>
+<ul>
+  <li><strong>모델명</strong>: LG전자 LG그램 17ZD90Q-EX76K
+  <li><strong>가격</strong>: 약 230만 원
+  <li><strong>종류</strong>: 코어i7 12세대
+  <li><strong>무게</strong>: 1.435kg
+  <li><strong>화면 크기</strong>: 17inch
+  <li><strong>램</strong>: 16GB
+  <li><strong>SSD</strong>: 256GB
+  <li><strong>구입처</strong>: <a href="https://www.ssg.com/item/itemView.ssg?itemId=1000367671183&siteNo=7014&salestrNo=6005" target="_blink" title="인터파크에서 구입하기">인터파크</a><br>
+<img src="lggramfigure.jpg" width="50%"><br>
+<p>아래 laptop 브랜드 클릭하면 설명 링크로 이동합니다.
+  <ul>
+    <li><h3><strong><a href="LGgram.html">1. LG그램</a></strong></h3></li>
+    <li><h3><strong><a href="Macbook.html">2. 맥북</a></strong></h3></li>
+    <li><a href="main.html">메인 페이지로 이동</a></p>
+</body>
+</html>
